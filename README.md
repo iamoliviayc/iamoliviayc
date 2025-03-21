@@ -1,5 +1,5 @@
-![Banner](https://github.com/iamoliviayc/iamoliviayc/github_banner.jpg)
-## Hi there 👋
+![Banner](https://raw.githubusercontent.com/iamoliviayc/iamoliviayc/main/github_banner.jpg)
+### Hi there 👋 
 
 <!--
 **iamoliviayc/iamoliviayc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
