@@ -1,6 +1,8 @@
 <img width="828" alt="Image" src="https://github.com/user-attachments/assets/a884b46f-1e67-4102-9382-05d87cb0c542" />
 
 ### Welcome! I'm Yujia Wei :relaxed:
+---
+
 A growing AI/ML Engineer and Developer with skills in **Data Analysis, NLP, Machine Learning**, and **AI & Software development**.
 
 🎓 Currently pursuing a Master of Science in Information Science at University of Illinois Urbana-Champaign.
@@ -11,11 +13,7 @@ A growing AI/ML Engineer and Developer with skills in **Data Analysis, NLP, Mach
 
 
 🔮 Beyond my tech side, I’m also a photographer, flutist, and an enthusiast of traveling and baking.
-
-<br>
-<br>
-
-
+***
 ***To better fetch details about me, feel free to run the following query🤪:*** 
 
 ```SQL
