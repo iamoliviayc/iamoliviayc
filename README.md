@@ -1,3 +1,4 @@
+![Banner](https://github.com/iamoliviayc/iamoliviayc/github_banner.jpg)
 ## Hi there 👋
 
 <!--
