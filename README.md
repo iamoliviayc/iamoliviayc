@@ -18,7 +18,7 @@ A growing AI/ML Engineer and Developer with skills in **Data Analysis, NLP, Mach
 
 ```SQL
 SELECT  
-    'Yujia' or 'Olivia' AS Name,  
+    'Yujia👩🏻' or 'Olivia👩🏻' AS Name,  
     'AI Engineer & Data Scientist🧐' AS Role,  
     'Data-Driven Innovator📊' AS Passion,  
     'Master of Science in Information Management @UIUC🎓' AS Education,  
